@@ -1,0 +1,6 @@
+framework module Pods_PostApiCall {
+  umbrella header "Pods-PostApiCall-umbrella.h"
+
+  export *
+  module * { export * }
+}
